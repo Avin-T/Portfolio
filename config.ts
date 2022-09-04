@@ -9,22 +9,22 @@ import { InformationType, Theme } from "types";
 export const theme: Theme = "cyberpunk";
 
 export const analyticsId = "G-2S22V4P442";
-export const deployedURL = "https://effortless-portfolio.vercel.app";
+export const deployedURL = "https://abintimilsina.com.np";
 
 export const information: InformationType = {
 	email: "avin.timilsina.16@gmail.com",
 	firstName: "Avin",
 	lastName: "Timilsina",
 	description:
-		"I am a software engineer and a web developer. I am passionate about building web applications and solving problems.",
+		"I am a IT professional and a web developer. I am passionate about building web applications and solving problems.",
 	highlightingStats: [
 		{
 			title: "Projects",
-			value: 10,
+			value: 1,
 		},
 		{
 			title: "Reddit Karma",
-			value: 13862,
+			value: 39253,
 		},
 	],
 	socials: {
