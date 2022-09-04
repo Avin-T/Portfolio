@@ -6,9 +6,9 @@ import { InformationType, Theme } from "types";
  *
  * @type {Theme}
  */
-export const theme: Theme = "cyberpunk";
+export const theme: Theme = "forest";
 
-export const analyticsId = "G-2S22V4P442";
+export const analyticsId = "G-3C7ZVG616P";
 export const deployedURL = "https://abintimilsina.com.np";
 
 export const information: InformationType = {
