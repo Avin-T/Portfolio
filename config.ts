@@ -12,9 +12,9 @@ export const analyticsId = "G-2S22V4P442";
 export const deployedURL = "https://effortless-portfolio.vercel.app";
 
 export const information: InformationType = {
-	email: "sahrohit9586@gmail.com",
-	firstName: "Rohit",
-	lastName: "Sah",
+	email: "avin.timilsina.16@gmail.com",
+	firstName: "Avin",
+	lastName: "Timilsina",
 	description:
 		"I am a software engineer and a web developer. I am passionate about building web applications and solving problems.",
 	highlightingStats: [
@@ -28,21 +28,21 @@ export const information: InformationType = {
 		},
 	],
 	socials: {
-		github: "http://github.com/sahrohit",
-		linkedin: "https://www.linkedin.com/in/sahrohit/",
-		twitter: "https://twitter.com/sah_rohite",
-		instagram: "https://www.instagram.com/sah_rohite/",
-		facebook: "https://www.facebook.com/imadeyoureadthis26/",
-		medium: "https://medium.com/@sahrohit9586",
+		github: "http://github.com/Avin-T",
+		linkedin: "https://www.linkedin.com/in/avin-timilsina-a28a41216/",
+		twitter: "https://twitter.com/Avin_Timilsina",
+		instagram: "https://www.instagram.com/avin_timilsina/",
+		facebook: "https://www.facebook.com/avin.timilsina.16/",
+		medium: null,
 		youtube: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-		stackoverflow: "https://stackoverflow.com/users/13238555/rohit",
+		stackoverflow: null,
 	},
 	whatido:
 		"I`ve been learning web design for several years and am presently pursuing a degree as a Computer Science Engineer with an emphasis on database architecture, and machine learning.",
 	skills: [
 		{
 			type: "Languages",
-			list: ["English", "Japanese", "Hindi", "Nepali"],
+			list: ["English", "Hindi", "Nepali"],
 		},
 	],
 	skillsWithIcons: [
@@ -61,11 +61,11 @@ export const information: InformationType = {
 	],
 	projects: [
 		{
-			name: "Portfolio",
-			description: "This is my portfolio website.",
-			link: "https://sahrohit.github.io/",
+			name: "Madre-Co.",
+			description: "This is restaurant website.",
+			link: "https://github.com/Avin-T/Madre-Co./",
 			image: "https://picsum.photos/500/500",
-			badges: ["Javascript", "Typescript"],
+			badges: ["Javascript", "HTML","CSS"],
 		},
 		{
 			name: "Portfolio",
@@ -89,55 +89,6 @@ export const information: InformationType = {
 			badges: ["Javascript", "Typescript"],
 		},
 	],
-	workExperince: [
-		{
-			company: "Apple Inc.",
-			description:
-				"Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci et alias delectus autem quia, sint blanditiis, \n facere distinctio perspiciatis rem illo aspernatur dicta quibusdam quisquam, laudantium consequuntur officiis repellendus fugiat!",
-			designation: "Senior Product Manager",
-			time: "2022 - Present",
-			learning: [
-				"Learnt to print Hello World",
-				"Learnt to center CSS divs",
-				"Learnt to crash the production the fastest.",
-			],
-		},
-		{
-			company: "Apple Inc.",
-			description:
-				"Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci et alias delectus autem quia, sint blanditiis, \n facere distinctio perspiciatis rem illo aspernatur dicta quibusdam quisquam, laudantium consequuntur officiis repellendus fugiat!",
-			designation: "Senior Product Manager",
-			time: "2022 - Present",
-			learning: [
-				"Learnt to print Hello World",
-				"Learnt to center CSS divs",
-				"Learnt to crash the production the fastest.",
-			],
-		},
-		{
-			company: "Apple Inc.",
-			description:
-				"Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci et alias delectus autem quia, sint blanditiis, \n facere distinctio perspiciatis rem illo aspernatur dicta quibusdam quisquam, laudantium consequuntur officiis repellendus fugiat!",
-			designation: "Senior Product Manager",
-			time: "2022 - Present",
-			learning: [
-				"Learnt to print Hello World",
-				"Learnt to center CSS divs",
-				"Learnt to crash the production the fastest.",
-			],
-		},
-		{
-			company: "Apple Inc.",
-			description:
-				"Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci et alias delectus autem quia, sint blanditiis, \n facere distinctio perspiciatis rem illo aspernatur dicta quibusdam quisquam, laudantium consequuntur officiis repellendus fugiat!",
-			designation: "Senior Product Manager",
-			time: "2022 - Present",
-			learning: [
-				"Learnt to print Hello World",
-				"Learnt to center CSS divs",
-				"Learnt to crash the production the fastest.",
-			],
-		},
-	],
-	cheesyOutro: "Thanks for reading till the end.",
+	workExperince: [],
+	cheesyOutro: "Life Goes On.",
 };
