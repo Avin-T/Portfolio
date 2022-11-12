@@ -6,7 +6,7 @@ const Footer = () => {
 			<div>
 				<a
 					className="hover:text-primary pointer"
-					href="https://sahrohit.com.np"
+					href="https://www.abintimilsina.com.np/"
 				>
 					{" "}
 					Designed and Made with 💖 by Rohit Sah
