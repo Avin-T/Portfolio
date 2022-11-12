@@ -9,7 +9,7 @@ const Footer = () => {
 					href="https://sahrohit.com.np"
 				>
 					{" "}
-					Designed and Made with 💖 by Rohit Sah
+					Designed and Made with 💖 by Avin Timilsina
 				</a>
 			</div>
 		</footer>
