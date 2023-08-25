@@ -7,7 +7,7 @@ const ProjectSection = () => {
 				<h1 className="font-semibold text-5xl">SOME OF MY WORKS</h1>
 				<div className="my-4 mr-16">
 					<p className="text-lg">
-						These are some of the projects, i have worked on over the years.
+						These are some of the projects, I have worked on over the years.
 					</p>
 				</div>
 			</div>

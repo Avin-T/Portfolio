@@ -37,7 +37,7 @@ const WhatIDo = () => {
 						{skill.list.map((item) => (
 							<div
 								key={`skill-list-${index}-${item}`}
-								className={`badge badge-lg ${colors[index]} gap-2 text-lg`}
+								className={`badge badge-lg ${colors[1]} gap-2 text-lg p-4`}
 							>
 								{item}
 							</div>

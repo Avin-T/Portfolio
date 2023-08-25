@@ -13,7 +13,13 @@ const ProfilePanel = () => {
 			<div className="my-4 mr-16">
 				<p className="text-lg">{information.whatido}</p>
 			</div>
-			<div>
+			<div className="flex flex-row gap-2">
+				<a
+					className="btn btn-active btn-info"
+					href="/Abin's-Resume.pdf"
+				>
+					Download Resume
+				</a>
 				<a
 					className="btn btn-active btn-primary"
 					href={`mailto:${information.email}`}

@@ -6,10 +6,10 @@ const Footer = () => {
 			<div>
 				<a
 					className="hover:text-primary pointer"
-					href="https://sahrohit.com.np"
+					href="https://abintimilsina.com.np"
 				>
 					{" "}
-					Designed and Made with 💖 by Avin Timilsina
+					Designed and Made with 💖 by Abin Timilsina
 				</a>
 			</div>
 		</footer>

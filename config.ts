@@ -6,21 +6,21 @@ import { InformationType, Theme } from "types";
  *
  * @type {Theme}
  */
-export const theme: Theme = "forest";
+export const theme: Theme = "dracula";
 
 export const analyticsId = "G-3C7ZVG616P";
 export const deployedURL = "https://abintimilsina.com.np";
 
 export const information: InformationType = {
-	email: "avin.timilsina.16@gmail.com",
-	firstName: "Avin",
+	email: "abintimilsina@gmail.com",
+	firstName: "Abin",
 	lastName: "Timilsina",
 	description:
-		"I am a IT professional and a web developer. I am passionate about building web applications and solving problems.",
+		"I am Abin Timilsina, a versatile web developer and software enthusiast skilled in creating innovative digital solutions, with a strong foundation in web technologies and a passion for effective communication.",
 	highlightingStats: [
 		{
 			title: "Projects",
-			value: 1,
+			value: 8,
 		},
 		{
 			title: "Reddit Karma",
@@ -28,67 +28,67 @@ export const information: InformationType = {
 		},
 	],
 	socials: {
-		github: "http://github.com/Avin-T",
-		linkedin: "https://www.linkedin.com/in/avin-timilsina-a28a41216/",
-		twitter: "https://twitter.com/Avin_Timilsina",
+		github: "http://github.com/avintimilsina",
+		linkedin: "https://www.linkedin.com/in/avintimilsina/",
+		twitter: "https://twitter.com/avin_timilsina",
 		instagram: "https://www.instagram.com/avin_timilsina/",
 		facebook: "https://www.facebook.com/avin.timilsina.16/",
-		medium: null,
-		youtube: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+		medium: "https://medium.com/@abintimilsina16",
+		youtube: null,
 		stackoverflow: null,
 	},
 	whatido:
-		"I`ve been learning web design for several years and am presently pursuing a degree as a Computer Science Engineer with an emphasis on database architecture, and machine learning.",
+		"I've been learning web design for several years and am presently pursuing a degree as a Computer Science and Information Technology Student with an emphasis on web optimization and user experience.",
 	skills: [
 		{
 			type: "Languages",
-			list: ["English", "Hindi", "Nepali"],
+			list: ["English", "Nepali", "Hindi"],
 		},
 	],
 	skillsWithIcons: [
 		{
 			type: "Frontend Centric",
-			list: ["HTML", "CSS", "Javascript", "React", "Nextjs", "Angular"],
+			list: [ "TypeScript","Javascript", "Nextjs", "React", "HTML", "CSS",  "Tailwind", "Bootstrap", "Chakraui",],
 		},
 		{
 			type: "Backend Centric",
-			list: ["Typescript", "Graphql", "Nodejs", "Nestjs", "Expressjs"],
+			list: ["Nodejs", "Laravel", "PHP", "Python", "Firebase","MySQL", "Postgres","Datagrip"],
 		},
 		{
 			type: "Data Centric",
-			list: ["Python", "Scikit Learn", "Tensorflow", "Keras", "Pytorch"],
+			list: ["Python", "Scikit", "Pandas", "Numpy"],
 		},
 	],
 	projects: [
 		{
-			name: "Madre-Co.",
-			description: "This is restaurant website.",
-			link: "https://github.com/Avin-T/Madre-Co./",
-			image: "https://picsum.photos/500/500",
-			badges: ["Javascript", "HTML","CSS"],
+			name: "Hulak",
+			description: "Hulak is a progressive logistics company in Nepal, leveraging modern technology and the trust of Nepal Post to transform the delivery industry.",
+			link: "https://github.com/avintimilsina/hulak/",
+			image: "/assets/hulak-mockup.png",
+			badges: ["TypeScript", "Next.js","Chakra UI","Firebase"],
 		},
 		{
-			name: "Portfolio",
-			description: "This is my portfolio website.",
-			link: "https://sahrohit.github.io/",
-			image: "https://picsum.photos/500/500",
-			badges: ["Javascript", "Typescript", "Javascript", "Typescript"],
+			name: "Chirp",
+			description: "Chirp is a social media platform where you can share your thoughts with the world.",
+			link: "https://github.com/avintimilsina/chirp/",
+			image: "/assets/chirp-mockup.png",
+			badges: ["TypeScript", "Next.js","Chakra UI","Firebase"],
 		},
 		{
-			name: "Portfolio",
-			description: "This is my portfolio website.",
-			link: "https://sahrohit.github.io/",
-			image: "https://picsum.photos/500/500",
+			name: "Madre Co.",
+			description: "Madre is restaurant website where you can order food online.",
+			link: "https://github.com/avintimilsina/better-madre",
+			image: "/assets/madre-mockup.png",
 			badges: ["Javascript", "Typescript"],
 		},
 		{
-			name: "Portfolio",
-			description: "This is my portfolio website.",
-			link: "https://sahrohit.github.io/",
-			image: "https://picsum.photos/500/500",
-			badges: ["Javascript", "Typescript"],
+			name: "Engrave",
+			description: "Engrave is note taking app with clean UI and easy to use features. It is built using Nextjs, Tailwind, Firebase and JavaScript.",
+			link: "https://github.com/avintimilsina/note-app",
+			image: "/assets/engrave-mockup.png",
+			badges: ["Javascript","TypeScript", "Next.js","Tailwind","Firebase"],
 		},
 	],
 	workExperince: [],
-	cheesyOutro: "Life Goes On.",
+	cheesyOutro: "",
 };
